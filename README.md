@@ -3,4 +3,4 @@
 
 **To see agenda go to [Presentation plan](./presentation-plan.md)**
 
-**All material can be found in [links file](./links.md)**
+**All materials can be found in [links file](./links.md)**
