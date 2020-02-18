@@ -3,5 +3,5 @@ export function matchAllExample() {
 }
 
 export function allMethodExample() {
-    return 'hello1 hello2'.match(/hello(\d)/g);
+    return 'hello1 hello2'.match(/hello(\d)/    );
 }
