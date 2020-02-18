@@ -1,6 +1,7 @@
 export class SomeClass {
-    someField;
-    constructor(value) {
-        this.value = value;
+    someField = 'Foo';
+
+    set setSomeField(value) {
+        this.someField = value;
     }
 }

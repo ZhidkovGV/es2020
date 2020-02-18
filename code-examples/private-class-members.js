@@ -7,4 +7,12 @@ export class ClassWithPrivateProperty {
     getPrivate() {
         return this.#privateField;
     }
+
+    #somePrivateMethod() {
+        return 'hippity hoppity get out of my property';
+    }
+
+    callPrivateMethod(){
+        return this.#somePrivateMethod();
+    }
 }
